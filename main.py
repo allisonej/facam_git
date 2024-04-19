@@ -12,8 +12,8 @@ def split_odd_even(nums=[1,2,3,4]):
     return (odds, evens)
 
 if __name__ == '__main__':
-    #print(check_available())
-    #print(remove_odd())
-    print(split_odd_even())
+    #print( check_available() )
+    #print( remove_odd() )
+    print( split_odd_even() )
 
 
